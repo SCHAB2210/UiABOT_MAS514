@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<robot name="robot_car">
+
+  <!-- Base Link -->
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <mesh filename="SupportWheelBracket_v03 (1).STL" />
+      </geometry>
+    </visual>
+  </link>
+
+
+
+</robot>
